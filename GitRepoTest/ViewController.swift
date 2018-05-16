@@ -5,7 +5,6 @@
 //  Created by Snehal on 16/05/18.
 //  Copyright © 2018 Edot. All rights reserved.
 //
-
 import UIKit
 
 class ViewController: UIViewController {
